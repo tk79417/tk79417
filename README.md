@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @tk79417
-- 👀 I’m interested in python
+- 👋 Hi, I’m Muhammad Tayyab Khan
+- 👀 I’m interested in python for Data science, Machine learning, and Computer vision
 - 🌱 I’m currently learning python programming
 - 💞️ I’m looking to collaborate on different projects of python
 - 📫 How to reach me. 
